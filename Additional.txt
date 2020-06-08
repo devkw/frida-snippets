@@ -1,0 +1,3 @@
+https://awakened1712.github.io/hacking/hacking-frida/
+https://codeshare.frida.re/
+https://www.hahwul.com/2019/06/frequently-used-frida-scripts-and-others.html
